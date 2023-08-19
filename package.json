@@ -1,5 +1,5 @@
 {
-	"name": "cli-notifier",
+	"name": "alerta-cli",
 	"version": "1.0.0",
 	"description": "Cross platform CLI Alerts with colors & symbols for success, info, warning, and error. Work on macOS, Linux, and Windows.",
 	"license": "MIT",
@@ -14,7 +14,7 @@
 		"index.js"
 	],
 	"keywords": [
-		"cli-notifier",
+		"alerta-cli",
 		"Muhammad Umair",
 		"umair"
 	],

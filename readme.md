@@ -1,6 +1,6 @@
 <h4 align="center">
     <a href="https://github.com/muhammadumair1019/cli-notifier">
-        <img src="https://raw.githubusercontent.com/muhammadumair1019/cli-notifier/HEAD/.github/cli-notifier.png" alt="cli-notifier screenshot" />
+        <img src="https://raw.githubusercontent.com/muhammadumair1019/cli-notifier/HEAD/.github/alerta-cli.png" alt="alerta-cli screenshot" />
     </a>
     <br>
     <br>
@@ -16,14 +16,14 @@ Work on macOS, Linux, and Windows.
 
 <br>
 
-# cli-notifier
+# alerta-cli
 
 [![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
 
 ## Install
 
 ```sh
-npm install cli-notifier
+npm install alerta-cli
 ```
 
 <br>
@@ -33,7 +33,7 @@ npm install cli-notifier
 ## Usage
 
 ```js
-const alert = require('cli-notifier');
+const alert = require('alerta-cli');
 
 // Provide the type, msg, and name options.
 alert({type: `success`, msg: `Everything finished!`});
