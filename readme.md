@@ -8,8 +8,7 @@
 Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error.
 <br>
 Work on macOS, Linux, and Windows.
-
-[![DOWNLOADS](https://img.shields.io/npm/dt/cli-alerts?label=DOWNLOADS%20%20❯&colorA=6A788D&colorB=6A788D&style=flat)](https://www.npmjs.com/package/cli-alerts) 
+ 
 [![Follow @MrUmairAfzal on Twitter](https://img.shields.io/badge/FOLLOW%20@MRUMAIRAFZAL%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://twitter.com/mrumairafzal/)
 
 </h4>
