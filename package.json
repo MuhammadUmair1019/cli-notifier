@@ -1,0 +1,32 @@
+{
+	"name": "cli-notifier",
+	"version": "1.0.0",
+	"description": "Cross platform CLI Alerts with colors & symbols for success, info, warning, and error. Work on macOS, Linux, and Windows.",
+	"license": "MIT",
+	"repository": "muhammadumair1019/cli-notifier",
+	"author": {
+		"name": "Muhammad Umair",
+		"email": "muhammad.umair1019@gmail.com",
+		"url": "https://portfolio-umair.vercel.app/"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cli-notifier",
+		"Muhammad Umair",
+		"umair"
+	],
+	"devDependencies": {
+		"prettier": "^3.0.2"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"format": "prettier --write \"./**/*.{js,json}\""
+	},
+	"dependencies": {
+		"chalk": "^4",
+		"log-symbols": "^4"
+	}
+}
